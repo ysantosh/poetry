@@ -1,0 +1,9 @@
+build/
+target/
+*.log
+.settings/
+.classpath
+.project
+out/
+bin/
+
