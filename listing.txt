@@ -1,0 +1,31 @@
+total 280
+drwxr-xr-x@  10 tlberglund  staff     340 Mar 18 14:02 Box Documents
+drwx------+   8 tlberglund  staff     272 Mar 18 08:44 Desktop
+drwx------+  49 tlberglund  staff    1666 Dec 11 06:29 Documents
+drwx------+  39 tlberglund  staff    1326 Mar 18 20:29 Downloads
+drwxr-xr-x    3 tlberglund  staff     102 Jan  1 11:25 Dropbox
+drwxr-xr-x    4 tlberglund  staff     136 Dec  3 22:39 Dropbox-github
+drwxr-xr-x    4 tlberglund  staff     136 Dec  5 22:04 Dropbox-personal
+drwx------@  58 tlberglund  staff    1972 Mar 17 05:42 Library
+drwx------+  30 tlberglund  staff    1020 Mar  6 06:08 Movies
+drwx------+   9 tlberglund  staff     306 Sep 26 10:19 Music
+drwx------   53 tlberglund  staff    1802 Jul 26  2012 Old Personal Documents
+drwx------+  53 tlberglund  staff    1802 Feb  7 14:45 Pictures
+drwxr-xr-x+   5 tlberglund  staff     170 Jul 25  2012 Public
+drwxr-xr-x   61 tlberglund  staff    2074 Feb 26 08:27 Purchased Software
+drwxr-xr-x+   3 tlberglund  staff     102 Mar 17 02:21 Sites
+drwxr-xr-x   12 tlberglund  staff     408 Dec  1 16:28 Tools
+drwxr-xr-x  112 tlberglund  staff    3808 Mar  2 16:25 code
+drwxr-xr-x    3 tlberglund  staff     102 Aug 10  2012 eclipse-workspace
+drwxr-xr-x    4 tlberglund  staff     136 Jul 26  2012 emacs-starter-kit.git
+drwxr-xr-x   35 tlberglund  staff    1190 Mar 18 14:04 github
+drwxr-xr-x   17 tlberglund  staff     578 Feb 13 08:43 gradle-book-2
+drwxr-xr-x    3 tlberglund  staff     102 Nov  1 08:49 groovy-liquibase.git.svn
+-rwxr-xr-x    1 root        staff     165 Dec 17 16:06 install_lp.html
+drwxr-xr-x    6 tlberglund  staff     204 Jul 26  2012 poems
+drwxr-xr-x   19 tlberglund  staff     646 Mar  2 06:21 scripts
+-rw-r--r--    1 tlberglund  staff  135938 Feb 25 23:12 squirrel.jpg
+drwxr-xr-x    2 tlberglund  staff      68 Feb  5 16:48 src
+drwxr-xr-x   28 tlberglund  staff     952 Oct  5 22:51 timberglund.com
+drwxr-xr-x   16 tlberglund  staff     544 Jul 26  2012 workshops
+drwxr-xr-x   22 tlberglund  staff     748 Jan 22 18:43 zachberglund.com
