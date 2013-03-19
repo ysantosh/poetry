@@ -1,17 +1,15 @@
-total 280
 drwxr-xr-x@  10 tlberglund  staff     340 Mar 18 14:02 Box Documents
 drwx------+   8 tlberglund  staff     272 Mar 18 08:44 Desktop
 drwx------+  49 tlberglund  staff    1666 Dec 11 06:29 Documents
 drwx------+  39 tlberglund  staff    1326 Mar 18 20:29 Downloads
 drwxr-xr-x    3 tlberglund  staff     102 Jan  1 11:25 Dropbox
-drwxr-xr-x    4 tlberglund  staff     136 Dec  5 22:04 Dropbox-personal
 drwx------@  58 tlberglund  staff    1972 Mar 17 05:42 Library
 drwx------+  30 tlberglund  staff    1020 Mar  6 06:08 Movies
 drwx------+   9 tlberglund  staff     306 Sep 26 10:19 Muzak
 drwx------   53 tlberglund  staff    1802 Jul 26  2012 New Personal Documents
 drwx------+  53 tlberglund  staff    1802 Feb  7 14:45 Pictures
 drwxr-xr-x+   5 tlberglund  staff     170 Jul 25  2012 Public
-drwxr-xr-x   61 tlberglund  staff    2074 Feb 26 08:27 Purchased Software
+drwxr-xr-x   61 tlberglund  staff    2074 Feb 26 08:27 Purloined Software
 drwxr-xr-x+   3 tlberglund  staff     102 Mar 17 02:21 Sites
 drwxr-xr-x   12 tlberglund  staff     408 Dec  1 16:28 Tools
 drwxr-xr-x  112 tlberglund  staff    3808 Mar  2 16:25 code
